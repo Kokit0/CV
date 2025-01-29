@@ -8,7 +8,7 @@ title: "Mi CV"
 Aquí puedes ver y descargar mi currículum en PDF.
 
 ## 🔹 **Ver en el navegador**
-<iframe src="https://raw.githubusercontent.com/Kokit0/CV/main/CV%20Jorge%20Amaya%20AI%20Data%20Engineer%20Dic%202024.pdf" width="100%" height="600px"></iframe>
+<iframe src="/CV/CV_Jorge_Amaya.pdf" width="100%" height="600px"></iframe>
 
 ## 🔹 **Descargar mi CV en PDF**
-[📥 Descargar CV](https://raw.githubusercontent.com/Kokit0/CV/main/CV%20Jorge%20Amaya%20AI%20Data%20Engineer%20Dic%202024.pdf){: .btn .btn-primary}
+[📥 Descargar CV](/CV/CV_Data_Science_AI_Engineer_Jorge_Amaya.pdf){: .btn .btn-primary}

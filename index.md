@@ -39,9 +39,9 @@ Soy un profesional con experiencia en **ciencia de datos, modelamiento predictiv
 ---
 
 ## 🔗 **Conéctate conmigo**
-💌 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-🔗 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🌍 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)  
+💌 **Email:** [jorge.amaya.s@gmail.com](mailto:jorge.amaya.s@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/jorge-amaya-soto]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-amaya-soto/))  
+🌍 **Portafolio:** [mi portafolio en GitHub]([https://tuportafolio.com](https://github.com/Kokit0?tab=repositories&q=&type=&language=&sort=stargazers))  
 
 ---
 

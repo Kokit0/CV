@@ -3,10 +3,18 @@ layout: default
 title: "Mi CV"
 ---
 
-# Mi CV
+# 📄 Mi CV
 
-Aquí puedes ver mi currículum en PDF directamente. 👇
+Aquí puedes ver y descargar mi currículum en PDF.
 
-<iframe src="CV Jorge Amaya AI Data Engineer Dic 2024.pdf" width="100%" height="600px"></iframe>
+## 🔹 **Ver en el navegador**
+<iframe src="CV.pdf" width="100%" height="600px"></iframe>
 
-[📥 Descargar mi CV](CV Jorge Amaya AI Data Engineer Dic 2024.pdf){: .btn}
+## 🔹 **Descargar directamente**
+[📥 Descargar CV en PDF](CV.pdf){: .btn .btn-primary}
+
+## 🔹 **Opción de descarga ZIP/TAR**
+Si prefieres, puedes descargar todo el repositorio, que incluye mi CV:
+- [📦 Descargar ZIP](https://github.com/kokit0/CV/archive/refs/heads/main.zip)
+- [📦 Descargar TAR](https://github.com/kokit0/CV/archive/refs/heads/main.tar.gz)
+

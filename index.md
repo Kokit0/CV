@@ -1,12 +1,13 @@
 ---
 layout: default
-title: "Mi CV - Jorge Amaya"
+title: "Jorge Amaya - Data Scientist & AI Engineer"
 ---
 
-# 💼 Mi Currículum Vitae
+# ✨ **Jorge Amaya**  
+## Data Scientist & AI Engineer  
 
-🚀 Soy **Jorge Amaya**, Data Scientist & AI Engineer.  
-Aquí puedes descargar mi CV actualizado.
+👋 ¡Hola! Soy Jorge, apasionado por transformar **datos en decisiones inteligentes**.  
+Mi enfoque está en la creación de **soluciones basadas en AI** para resolver problemas complejos y generar valor.
 
 ---
 
@@ -19,10 +20,28 @@ Aquí puedes descargar mi CV actualizado.
 
 ---
 
-📌 **Información de contacto:**  
-✉️ [Email](mailto:tuemail@ejemplo.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tuusuario)  
-🌍 [Portafolio](https://tuportafolio.com)
+## 📄 **Sobre Mí**
+Soy un profesional con experiencia en **ciencia de datos, modelamiento predictivo y desarrollo de AI**.  
+💡 Me motiva **convertir datos en estrategias accionables**, optimizando procesos y resolviendo problemas a gran escala.  
+
+📊 Me especializo en:  
+- **Machine Learning & Modelado Predictivo** → Desarrollo de modelos precisos para decisiones estratégicas.  
+- **Ingeniería de Datos** → Creación y optimización de pipelines en la nube.  
+- **AI para Negocios** → Aplicación de inteligencia artificial para mejorar eficiencia operativa y rentabilidad.  
+
+---
+
+## 🎯 **Habilidades Técnicas**
+📌 **Lenguajes**: Python, SQL  
+📌 **Frameworks & Herramientas**: TensorFlow, Scikit-Learn, Azure, BigQuery, Snowflake  
+📌 **Metodologías**: Agile, DevOps, MLOps  
+
+---
+
+## 🔗 **Conéctate conmigo**
+💌 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+🌍 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)  
 
 ---
 
